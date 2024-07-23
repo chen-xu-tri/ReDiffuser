@@ -1,1 +1,0 @@
-Extract the offline KUKA dataset from [\<url\>](https://www.dropbox.com/s/zofqvtkwpmp4v44/metainfo.tar.gz?dl=0) following the original Diffuser.
